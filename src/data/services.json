@@ -1,0 +1,32 @@
+[
+    {
+      "title":"Data Strategy",
+      "description":"We’ll help you develop an actionable data and analytics strategy that outlines the people, processes, and technology you need to get the most value out of your data.",
+      "iconClass":"fa-solid fa-database"
+    },
+    {
+      "title":"Data Management",
+      "description":"We build the data foundation you need to ingest, integrate, and analyze growing data volumes.",
+      "iconClass":"fa-solid fa-server"
+    },
+    {
+      "title":"Cloud Services",
+      "description":"We can deploy cloud solutions, optimize your cloud architecture and spend, and migrate your data analytics without disrupting your business operations.",
+      "iconClass":"fa-solid fa-cloud"
+    },
+    {
+      "title":"Data Modernization",
+      "description":"We'll help move you away from legacy solutions that inhibit innovation to modernized solutions that allow you keep up with your growing business demands.",
+      "iconClass":"fa-solid fa-upload"
+    },
+    {
+      "title":"Data Governance",
+      "description":"We establish data governance programs to ensure data is accessible, secure, uniform, and trusted throughout the organization.",
+      "iconClass":"fa-solid fa-scale-balanced"
+    },
+    {
+      "title":"Analytics",
+      "description":"Whether your reporting needs some fine tuning, you want to migrate to a new analytics platform, you need help choosing the right tools.",
+      "iconClass":""
+    }
+  ]

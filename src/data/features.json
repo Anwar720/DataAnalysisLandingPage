@@ -1,0 +1,17 @@
+[
+    {
+      "title":"Strategy",
+      "description":"Our team assesses how to manage best, analyze and utilize your data to achieve your business goals, complete with a custom action plan that acts as the north star to all your data initiatives",
+      "iconClass":"fa-solid fa-chart-pie"
+    },
+    {
+      "title":"Implementation",
+      "description":"Our team of experts will build and deploy the foundation, architecture, and data analytics you need to set your teams up for success",
+      "iconClass":"fa-solid fa-chart-pie"
+    },
+    {
+      "title":"Migration",
+      "description":"Avoid disrupting your business by trusting us with the delicate task of moving you away from legacy data solutions",
+      "iconClass":"fa-solid fa-chart-pie"
+    }
+  ]

@@ -1,0 +1,45 @@
+[
+    {
+    "type":"basic",
+    "description":"Send emails and build an engaged contact base.",
+    "price":14.75,
+    "features":[
+        "16 Users",
+        "Unlimited payment gateways",
+        "Multiple tax regions",
+        "Saas Metrics",
+        "Salesforce & Avalara",
+        "Chargebee Revenue Story",
+        "Facebook Ads"],
+    "serviceNum":5
+    },
+    {
+    "type":"Professional",
+    "description":"Generate leads, sell products, and grow your profits.",
+    "price":49.85,
+    "features":[
+        "16 Users",
+        "Unlimited payment gateways",
+        "Multiple tax regions",
+        "Saas Metrics",
+        "Salesforce & Avalara",
+        "Chargebee Revenue Story",
+        "Facebook Ads"],
+    "serviceNum":6
+    },
+    {
+    "type":"Premium",
+    "description":"Evolve your marketing with an advanced platform.",
+    "price":94.85,
+    "features":[
+        "16 Users",
+        "Unlimited payment gateways",
+        "Multiple tax regions",
+        "Saas Metrics",
+        "Salesforce & Avalara",
+        "Chargebee Revenue Story",
+        "Facebook Ads"],
+    "serviceNum":7
+    }
+    
+]
