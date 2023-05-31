@@ -111,7 +111,7 @@ function App() {
                       })
                     }
                   </span>
-                  <img src="/images/img2.png"  />
+                  <img src="images/img2.png"  />
                 </div>
               </div>
         </div>
