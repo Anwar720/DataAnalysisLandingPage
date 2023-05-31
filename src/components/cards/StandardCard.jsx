@@ -2,7 +2,7 @@ import React from 'react'
 
 const StandardCard = (props) => {
     return (
-        <div className='standard-card'>
+        <div className={'standard-card '}>
             <span className="icon">
                 <i class={props.iconClass?props.iconClass:"fa-solid fa-magnifying-glass-chart"}></i>
             </span>

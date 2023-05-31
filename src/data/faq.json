@@ -1,0 +1,13 @@
+[
+    {
+        "question":"What is the role of business intelligence in an organization?",
+        "answer":"Companies usually harness business intelligence (BI) to receive data-driven insights into their operations and improve both decision-making capabilities and customer experience based on these insights. Robust BI platforms combine data mining, business analysis, and data visualization to help business users dive into the specifics of each data trend. Experts at DataArt have a vast experience offering BI and right tools to companies of any size and business domain."
+    },
+    {
+        "question":"How do I decide which business insights my company needs from data for the long-term success?",
+        "answer":"Each company has a unique need in data management, governance, BI or analytics, so the first step would be assessing your company's data maturity level and determining your strategic goal. How and why does your company do data management and analytics? Is your data consistent and accurate? Do all data sources allow business users to work with data? Do you collect enough data to base strategic decision-making on it? All of these questions must be answered by professional experts from a data consulting firm, like ours. Turn to our data analytics consultant to get assisted with your data issues."
+    },{
+        "question":"Which data and analytics services does DataArt offer?",
+        "answer":"As a data analytics consulting company, DataArt offers a full spectrum of data-related services: from data management and data science, agile BI and building modern data platforms to unlocking AI, ML and data science capabilities that transform organizations not just into data-driven but truly insight-driven businesses."
+    }
+]

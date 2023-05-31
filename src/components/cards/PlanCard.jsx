@@ -11,7 +11,7 @@ const PlanCard = (props) => {
                     props.features.map((feature,key)=>{
                         return (
                             <li key={key}>
-                                <i class={"fa-regular fa-circle-check " + key < props.serviceNum - 1?'included':''}></i>
+                                <i class={"fa-solid fa-circle-check " +  (key < (props.serviceNum - 1)?'included':'') }></i>
                                 <p>{feature}</p>
                             </li>
                         )})

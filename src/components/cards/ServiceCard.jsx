@@ -1,8 +1,10 @@
-import React from 'react'
+import { useInView } from 'react-intersection-observer';
 
 const ServiceCard = (props) => {
+    const { ref, inView } = useInView({ rootMargin:'100%',triggerOnce:'true'});
+
     return (
-        <div className='service-card'>
+        <div className={'service-card ' + (inView?'float-up':'float-down') } ref={ref} >
             <span className="icon">
                 <i class={props.iconClass?props.iconClass:"fa-solid fa-magnifying-glass-chart"}></i>
             </span>

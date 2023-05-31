@@ -2,10 +2,10 @@ import React from 'react'
 
 const SearchBar = (props) => {
     return (
-        <span className='search'>
+        <div className={'search tran-4s ' + (props.class)}>
             <input type="text" placeholder={props.placeholder}/> 
             <button>{props.btnTxt}</button>
-        </span>
+        </div>
     )
 }
 
